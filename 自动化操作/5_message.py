@@ -1,6 +1,7 @@
 from pywinauto import Application
 import time
 """ Part 5 """
+# 此代码文件测试的目标为竞品，非网易POPO。可根据需求修改下方的应用程序，效果以及功能无差别
 # 运行此代码前，需要确保钉钉和p2p对话界面已经打开
 def send_dingtalk_message(app, message):
     try:
