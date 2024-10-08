@@ -43,5 +43,5 @@ def main(base_dir):
     print("所有视频处理完成。")
 
 # 指定基本路径（存储重命名后的视频文件的所在路径）
-base_dir = r"E:\实习内容\Python脚本测试\测试顺序\所有主文件"
+base_dir = r"E:\Python脚本测试\所有主文件"   # 会遍历所有主文件中的子文件夹
 main(base_dir)
