@@ -33,7 +33,7 @@ def copy_and_rename_videos(copy_folder_path, main_folder_path):
                 print()
 
 def main():
-    base_path = r"E:\实习内容\Python脚本测试\测试顺序"  # 文件夹所在的总路径
+    base_path = r"E:\Python脚本测试"  # 文件夹所在的总路径，此路径包含所有副本和所有主文件
     copy_folder_path = os.path.join(base_path, "所有副本")
     main_folder_path = os.path.join(base_path, "所有主文件")
 
