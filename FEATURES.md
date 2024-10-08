@@ -21,4 +21,4 @@
 6. **文件快速清理**：
    - **错误处理与数据更新**：当测试过程中出现错误或需求变更时，`delete_file.py`能够快速批量删除文件，有效降低人力成本，确保项目按时推进。
   
-   - **初始化测试环境**：通过运行[`1_create_file.py`](https://github.com/Windows-Automation-Script/自动化操作/1_create_file.py)，自动创建所有必需的主文件夹、副本文件夹及子文件夹，确保测试数据的有序组织。
+   - **初始化测试环境**：通过运行[`1_create_file.py`](https://github.com/Windows-Automation-Script/main/自动化操作/1_create_file.py)，自动创建所有必需的主文件夹、副本文件夹及子文件夹，确保测试数据的有序组织。
