@@ -23,5 +23,5 @@ def delete_files_in_folder(folder_path):
 if __name__ == "__main__":
     # 指定要清空的文件夹路径
     # folder_to_clear = r"D:\Test\test\测试\所有主文件\1-拍摄"
-    folder_to_clear = r"E:\实习内容\Python脚本测试\测试顺序"
+    folder_to_clear = r"E:\Python脚本测试"   # 删除此路径下的子文件
     delete_files_in_folder(folder_to_clear)
