@@ -9,7 +9,7 @@
 
 ## 使用指南
 
-详细使用指南请查看[这里](USAGE_GUIDE.md)。
+详细使用指南请查看[这里](documents/USAGE_GUIDE.md)。
 
 ## 技术栈
 
