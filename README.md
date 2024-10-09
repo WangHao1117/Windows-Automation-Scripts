@@ -14,12 +14,11 @@
 ## 技术栈
 
 - **编程语言**：Python
-- **库**：
-- os：用于与操作系统交互，如文件和目录管理。
-- shutil：用于执行文件操作，如复制和移动。
-- subprocess：用于运行外部命令，如FFmpeg。
-- cv2（OpenCV）：用于图像处理。
-- pywinauto：用于自动化Windows GUI应用程序。
+- **库**： os：用于与操作系统交互，如文件和目录管理。
+          shutil：用于执行文件操作，如复制和移动。
+          subprocess：用于运行外部命令，如FFmpeg。
+          cv2（OpenCV）：用于图像处理。
+          pywinauto：用于自动化Windows GUI应用程序。
 - **外部工具**：FFmpeg、爱思助手、PerfDog
 - **脚本功能**：文件管理、视频处理、GUI自动化、文件清理
 
