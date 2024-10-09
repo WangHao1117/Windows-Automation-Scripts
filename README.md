@@ -5,7 +5,7 @@
 
 ## 核心特点
 
-详细核心特点[查看详情](FEATURES.md)。
+详细核心特点[查看详情](documents/FEATURES.md)。
 
 ## 使用指南
 
